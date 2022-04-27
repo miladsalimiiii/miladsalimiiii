@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 
 
 ![miladsalimi's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladsalimiiii&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=radical)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/miladsalimiiii/count.svg" />
+</p>
