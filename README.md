@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://stackoverflow.com/users/10003284/milad-salimi"><img src="https://stackoverflow.com/users/flair/10003284.png?theme=clean" width="208" height="58" alt="Milad Salimi at Stack Overflow" title="Milad Salimi at Stack Overflow" align="top"></a>
-
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladsalimiiii&theme=dracula&show_icons=true&count_private=true&locale=en" alt="miladsalimi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladsalimiiii&theme=clean&show_icons=true&count_private=true&locale=en" alt="miladsalimi" />
 </p>
 
 
-![miladsalimi's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladsalimiiii&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=radical)
+![miladsalimi's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladsalimiiii&layout=compact&hide_border=false&title_color=0366d6&count_private=true&include_all_commits=true&theme=clean)
+
+<a href="https://stackoverflow.com/users/10003284/milad-salimi"><img src="https://stackoverflow.com/users/flair/10003284.png?theme=clean" width="200" height="58" alt="Milad Salimi at Stack Overflow" title="Milad Salimi at Stack Overflow" align="top"></a>
 
 
-<p align="center"> 
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/miladsalimiiii/count.svg" />
 </p>
